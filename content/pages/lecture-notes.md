@@ -232,7 +232,7 @@ Complex Sales Situations
 Evolution of a Sales Model
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture 17: Sales Model Evolution (PDF - 3.3MB)]({{< baseurl >}}/resources/mit15_387s15_lecture17)
+[Lecture 17: Sales Model Evolution (PDF - 3.3MB)]({{< baseurl >}}/resources/mit15_387s15_lecture17)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -268,7 +268,7 @@ Selling in the Age of Social Media
 Using Customer Relationship Management Software
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture 20: Selling Systems (PDF - 2.2MB)]({{< baseurl >}}/resources/mit15_387s15_lecture20)
+[Lecture 20: Selling Systems (PDF - 2.2MB)]({{< baseurl >}}/resources/mit15_387s15_lecture20)
 {{< tdclose >}}
 
 {{< trclose >}}
