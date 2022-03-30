@@ -4,6 +4,7 @@ description: 'This resource contains the information regarding The Sale: Prepara
   Approach, and Presentation/Demonstration.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/15-387-entrepreneurial-sales-spring-2015/f624cbdac29b7bcab19f95af50d88bfb_MIT15_387S15_Lecture2.pdf
 file_type: application/pdf
+parent_uid: ba12fd09-fd5a-ef65-064f-20546074b33b
 resourcetype: Document
 title: 'Lecture 2: The Sale: Preparation, Approach, and Presentation/Demonstration
   - 15.387 Spring 2015'
